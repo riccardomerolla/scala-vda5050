@@ -1,0 +1,1 @@
+trait VDA5050
